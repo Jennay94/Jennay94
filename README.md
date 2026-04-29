@@ -20,14 +20,15 @@ I am passionate about the intersection of gaming and data strategy. Currently, I
 ---
 
 ## 📊 Technical Skills Proficiency
-**Data Analysis & Python**
-![90%](https://progress-bar.dev/90/?scale=100&title=Proficiency&width=360&color=0e75b6&suffix=%)
 
-**SQL & Database Architecture**
-![85%](https://progress-bar.dev/85/?scale=100&title=Proficiency&width=360&color=0e75b6&suffix=%)
+**Data Analysis & Python**  
+![Data Analysis](https://img.shields.io/badge/Proficiency-90%25-0e75b6?style=flat-square)
 
-**IoT & Embedded Systems (C++/C#)**
-![75%](https://progress-bar.dev/75/?scale=100&title=Proficiency&width=360&color=0e75b6&suffix=%)
+**SQL & Database Architecture**  
+![SQL](https://img.shields.io/badge/Proficiency-85%25-0e75b6?style=flat-square)
+
+**IoT & Embedded Systems (C++/C#)**  
+![IoT](https://img.shields.io/badge/Proficiency-75%25-0e75b6?style=flat-square)
 
 ---
 
