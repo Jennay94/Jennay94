@@ -1,9 +1,9 @@
-# Hi there, I'm Morgana-01! 👋
+# Hi there, I'm Jennay94! 👋
 
 ### **Data Analyst & LiveOps Manager | CS Engineering Student | IoT Exchange Student @ Savonia UAS**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Morgana-01&label=Profile+views&color=0e75b6&style=flat" alt="Morgana-01" />
+  <img src="https://komarev.com/ghpvc/?username=Morgana-01&label=Profile+views&color=0e75b6&style=flat" alt="Jennay94" />
   <img src="https://github-profile-trophy.vercel.app/?username=Morgana-01&theme=radar&no-bg=true" alt="Trophies" />
 </p>
 
@@ -52,7 +52,6 @@ I am passionate about the intersection of gaming and data strategy. Currently, I
 ---
 
 ## 📫 Connect with Me
-- 💼 **LinkedIn:** [Morgana-01](https://www.linkedin.com/in/jennifer-moln%C3%A1r-8609a71b1/)
-- 📧 **Email:** [molnar.jennifer994@gmail.com](mailto:molnar.jennifer994@gmail.com)
+- 💼 **LinkedIn:** [Jennay94](https://www.linkedin.com/in/jennifer-moln%C3%A1r-8609a71b1/)
 
 ---
