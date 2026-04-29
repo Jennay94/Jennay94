@@ -3,8 +3,8 @@
 ### **Data Analyst & LiveOps Manager | CS Engineering Student | IoT Exchange Student @ Savonia UAS**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Morgana-01&label=Profile+views&color=0e75b6&style=flat" alt="Jennay94" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Morgana-01&theme=radar&no-bg=true" alt="Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=Jennay94&label=Profile+views&color=0e75b6&style=flat" alt="Jennay94" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jennay94&theme=radar&no-bg=true" alt="Trophies" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 I am passionate about the intersection of gaming and data strategy. Currently, I focus on data-driven LiveOps optimization and integrating advanced IoT solutions with ESP32.
 
 - 🔭 **Current Focus:** LiveOps strategies at MyTown Games Ltd. and smart sensor integration.
-- 🌱 **Learning:** Machine Learning (Savonia Onramp), AWS Cloud Services, and Advanced IoT Systems.
+- 🌱 **Learning:** Machine Learning (Savonia Onramp), AWS Cloud services, and advanced IoT systems.
 - 👯 **Collaborations:** Open to Game Analytics, LiveOps optimization, and Open-source Data Science projects.
 - ⚡ **Fun Fact:** I enjoy exploring how data insights directly shape the player experience.
 
@@ -57,14 +57,14 @@ I am passionate about the intersection of gaming and data strategy. Currently, I
 ---
 
 ## 📈 Activity & Insights
-![Jennay94's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Morgana-01&theme=dracula&bg_color=ffffff00&hide_border=true)
+![Jennay94's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jennay94&theme=dracula&bg_color=ffffff00&hide_border=true)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morgana-01&layout=compact&theme=vision-friendly-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morgana-01&show_icons=true&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennay94&layout=compact&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jennay94&show_icons=true&theme=vision-friendly-dark" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
-- 💼 **LinkedIn:** [Jennay94](https://www.linkedin.com/in/jennifer-moln%C3%A1r-8609a71b1/)
+- 💼 **LinkedIn:** [Jennifer Molnár](https://www.linkedin.com/in/jennifer-moln%C3%A1r-8609a71b1/)
