@@ -68,4 +68,4 @@ I am passionate about the intersection of gaming and data strategy. Currently, I
 ---
 
 ## 📫 Connect with Me
-- 💼 **LinkedIn:** [Jennifer Molnár](https://www.linkedin.com/in/jennifer-moln%C3%A1r-8609a71b1/)
+- 💼 **LinkedIn:** [Jennay94](https://www.linkedin.com/in/jennifer-moln%C3%A1r-8609a71b1/)
