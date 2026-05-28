@@ -61,10 +61,9 @@ I am passionate about the intersection of gaming and data strategy. Currently, I
 ![Jennay94's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jennay94&theme=dracula&bg_color=ffffff00&hide_border=true)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennay94&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jennay94&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Jennay94&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Jennay94&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
-
 ---
 
 ## 📫 Connect with Me
