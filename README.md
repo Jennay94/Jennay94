@@ -1,6 +1,6 @@
 # Hi there, I'm Jennay94! 👋
 
-### **Data Analyst & LiveOps Manager | Application and Web Developer  Engineering Student | IoT Exchange Student @ Savonia UAS**
+## Data Analyst & LiveOps Manager | Application and Web Developer Engineering Student | IoT Exchange Student @ Savonia UAS
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Jennay94&label=Profile+views&color=0e75b6&style=flat" alt="Jennay94" />
@@ -61,8 +61,8 @@ I am passionate about the intersection of gaming and data strategy. Currently, I
 ![Jennay94's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jennay94&theme=dracula&bg_color=ffffff00&hide_border=true)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennay94&layout=compact&theme=vision-friendly-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jennay94&show_icons=true&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennay94&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jennay94&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
 ---
