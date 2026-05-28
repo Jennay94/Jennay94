@@ -60,11 +60,7 @@ I am passionate about the intersection of gaming and data strategy. Currently, I
 ## 📈 Activity & Insights
 ![Jennay94's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jennay94&theme=dracula&bg_color=ffffff00&hide_border=true)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennay94&layout=compact&theme=vision-friendly-dark&v=1" alt="Top Langs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jennay94&show_icons=true&theme=vision-friendly-dark&v=1" alt="GitHub Stats" />
-</p>
----
+
 
 ## 📫 Connect with Me
 - 💼 **LinkedIn:** [Jennay94](https://www.linkedin.com/in/jennifer-moln%C3%A1r-8609a71b1/)
