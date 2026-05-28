@@ -1,6 +1,6 @@
 # Hi there, I'm Jennay94! 👋
 
-### **Data Analyst & LiveOps Manager | CS Engineering Student | IoT Exchange Student @ Savonia UAS**
+### **Data Analyst & LiveOps Manager | Application and Web Developer  Engineering Student | IoT Exchange Student @ Savonia UAS**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Jennay94&label=Profile+views&color=0e75b6&style=flat" alt="Jennay94" />
