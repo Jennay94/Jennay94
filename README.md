@@ -4,7 +4,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Jennay94&label=Profile+views&color=0e75b6&style=flat" alt="Jennay94" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Jennay94&theme=radar&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=Jennay94&theme=radar&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
